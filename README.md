@@ -67,10 +67,6 @@ Tools
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
-**Tech:** Node.js · Express.js · MongoDB · REST API
-
----
 
 ## 🎯 Currently Learning & Improving
 
@@ -85,20 +81,7 @@ Tools
 
 ---
 
-## 📫 Connect With Me
-
-* 💼 **LinkedIn:** Add your LinkedIn URL
-* 🌐 **Portfolio:** Add your portfolio URL
-* 📧 **Email:** Add your professional email
+⭐ Thanks for visiting my GitHub profile!
+**Tech:** Node.js · Express.js · MongoDB · REST API
 
 ---
-
-## ⚡ Developer Philosophy
-
-> **Build. Learn. Improve. Repeat.**
-
-I’m continuously improving my development skills by building real-world projects, exploring modern technologies, and solving practical problems with code.
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something meaningful with code. 🚀**
