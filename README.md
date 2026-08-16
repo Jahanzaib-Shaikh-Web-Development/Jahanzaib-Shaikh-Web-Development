@@ -85,12 +85,6 @@ Tools
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahanzaib-Shaikh-Web-Development\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 * 💼 **LinkedIn:** Add your LinkedIn URL
