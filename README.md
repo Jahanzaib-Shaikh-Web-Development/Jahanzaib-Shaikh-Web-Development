@@ -1,69 +1,73 @@
-# 👋 Hi, I'm Jahanzaib Shaikh
+Hi, I'm Jahanzaib Shaikh 👋
 
-### Full-Stack Web Developer
+🚀 Full Stack Developer | React.js • Next.js • Node.js • Express.js • MongoDB
 
-I’m a **Full-Stack Web Developer** focused on building modern, responsive, scalable, and maintainable web applications.
+I’m a passionate Full Stack Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into scalable web solutions using modern frontend and backend technologies.
 
-I work across the frontend and backend using **React.js, Next.js, Node.js, Express.js, MongoDB, and JavaScript**, with a strong focus on clean code, responsive UI, RESTful APIs, and practical problem-solving.
+🛠️ Tech Stack
+
+Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Tailwind CSS
+- React.js
+- Next.js
+
+Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+Database
+
+- MongoDB
+- Mongoose
+
+Tools
+
+- Git & GitHub
+- VS Code
+- Postman
+- npm
+
+📌 What I Do
+
+- 🌐 Build responsive and modern websites
+- ⚛️ Develop React.js & Next.js applications
+- 🔧 Create RESTful APIs with Node.js & Express.js
+- 🗄️ Work with MongoDB databases
+- 🔐 Build backend services and API integrations
+- 📱 Create mobile-friendly user interfaces
+- 🚀 Continuously learn and improve my development skills
+
+📂 Featured Projects
+
+- 🌦️ Weather App — Weather application with API integration
+- 📋 Task Manager — JavaScript task management app with Local Storage
+- 💼 Portfolio Website — Responsive personal developer portfolio
+- 📝 Blog REST API — Node.js, Express.js, MongoDB & Mongoose
+
+🎯 Current Focus
+
+- Advanced React.js & Next.js
+- Full Stack application development
+- REST API development
+- Database design
+- Clean and scalable code
+
+🤝 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn Profile]
+- 🌐 Portfolio: [Your Portfolio]
+- 📧 Email: [Your Email]
 
 ---
 
-## 🚀 Tech Stack
-
-### Frontend
-
-`HTML5` · `CSS3` · `JavaScript (ES6+)` · `React.js` · `Next.js` · `Tailwind CSS` · `Bootstrap`
-
-### Backend
-
-`Node.js` · `Express.js` · `RESTful APIs`
-
-### Database
-
-`MongoDB`
-
-### Tools & Workflow
-
-`Git` · `GitHub` · `VS Code` · `Postman`
-
----
-
-## 💻 What I Build
-
-* ⚛️ Modern and reusable **React.js interfaces**
-* 🚀 Full-stack applications with **Next.js**
-* 🔧 Scalable **RESTful APIs** with Node.js & Express.js
-* 🗄️ Database-driven applications using **MongoDB**
-* 📱 Responsive and mobile-first web experiences
-* 🔐 Secure and structured backend services
-* 🔄 Version-controlled projects using **Git & GitHub**
-
----
-
-## 📌 Featured Projects
-
-### 🌦️ Weather Application
-
-A responsive weather application that consumes a weather API and displays real-time weather information.
-
-**Tech:** JavaScript · HTML5 · CSS3 · REST API
-
-### ✅ Task Manager
-
-An interactive task management application with functionality for creating, managing, and organizing tasks.
-
-**Tech:** JavaScript · HTML5 · CSS3
-
-### 💼 Personal Portfolio
-
-A responsive developer portfolio showcasing projects, technical skills, services, and professional information.
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
-### 📝 RESTful Blog API
-
-Backend API for a blog application with structured endpoints and MongoDB database integration.
-
+⭐ Thanks for visiting my GitHub profile!
 **Tech:** Node.js · Express.js · MongoDB · REST API
 
 ---
